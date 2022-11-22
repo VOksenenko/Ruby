@@ -1,2 +1,2 @@
 # Ruby
-# Just simple scripts for Ruby course
+Just simple scripts for Ruby course
