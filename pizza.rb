@@ -8,7 +8,7 @@ class Pizza
   end
 
   def description
-    ingredients = @ingredients.map { |i| i.to_s }.join(",")
+    ingredients = @ingredients.map { |i| i }.join(",")
     print "Піца № #{@number} містить [#{ingredients}]."
   end
 end
